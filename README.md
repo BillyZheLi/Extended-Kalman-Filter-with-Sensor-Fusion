@@ -1,5 +1,4 @@
 # Extended Kalman Filter with Sensor Fusion
-Self-Driving Car Engineer Nanodegree Program
 
 In this project a kalman filter is utilized to estimate the state of a moving object of interest with noisy lidar and radar measurements.
 
