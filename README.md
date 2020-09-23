@@ -16,7 +16,7 @@ Once the install for uWebSocketIO is complete, the main program can be built and
 
 The following images show screenshots of the EKF tracking the position and velocity of a car using Lidar and Radar data in the simulator, where the blue and red dots represent Lidar and Radar measurements respectively, and the green dots represent the estimated car position.
 
-<kbd><img src="https://github.com/BillyZheLi/Extended-Kalman-Filter-with-Sensor-Fusion/blob/master/Docs/Capture.PNG" width="600" style="border:5px solid black"/></kbd> <kbd><img src="https://github.com/BillyZheLi/Extended-Kalman-Filter-with-Sensor-Fusion/blob/master/Docs/Capture1.PNG" width="300" style="border:5px solid black"/></kbd>
+<kbd><img src="https://github.com/BillyZheLi/Extended-Kalman-Filter-with-Sensor-Fusion/blob/master/Docs/Capture.PNG" width="500" style="border:5px solid black"/></kbd> <kbd><img src="https://github.com/BillyZheLi/Extended-Kalman-Filter-with-Sensor-Fusion/blob/master/Docs/Capture1.PNG" width="250" style="border:5px solid black"/></kbd>
 
 Tips for setting up your environment can be found in the classroom lesson for this project.
 
